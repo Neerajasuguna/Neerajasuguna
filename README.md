@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi, I'm Neeraja 👋  
+**Java Backend Engineer @ Walmart Global Tech | Building scalable, reliable distributed systems | Aspiring Software Architect**
 
-<!--
-**Neerajasuguna/Neerajasuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+I’m a backend engineer with 3 years of experience designing, developing, and scaling production-grade microservices at Walmart Global Tech.  
+I focus on building systems that are **resilient, observable, and optimized for performance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At work, I’ve solved large-scale engineering problems across inventory, dispute resolution, monitoring, and international expansion systems — consistently reducing latency, improving throughput, and automating workflows.
+
+I am currently deepening my expertise in **system architecture, high-performance backend design, distributed caching, and API gateways** as I work towards transitioning into a Software Architect role.
+
+---
+
+## 📌 Featured Projects  
+
+### 🔹 API Rate Limiter (Spring Boot + Redis)  
+A production-grade rate-limiting service implementing:
+- Token Bucket  
+- Sliding Window  
+- Leaky Bucket  
+
+Built with Redis for distributed counters, Spring Boot interceptors, and configurable per-endpoint rules. Designed to simulate API Gateway-level throttling with performance metrics and extensible rate-limit strategies.
+
+### 🔹 Sorting Visualizer  
+An interactive visualization tool demonstrating sorting algorithms like Bubble Sort, Selection Sort, and Insertion Sort, helping users understand algorithm behavior through animations.
+
+### 🔹 Todo List Chrome Extension  
+A minimalist productivity Chrome extension for adding, tracking, and organizing tasks seamlessly within the browser.
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Java, C++, SQL, JavaScript  
+**Backend:** Spring Boot, REST APIs, Microservices, JPA/Hibernate  
+**Caching & Storage:** Redis, MySQL  
+**Messaging:** Kafka  
+**DevOps & Tools:** Docker, Kubernetes, Git, Grafana, Splunk, Spotlight  
+**Testing:** JUnit, Mockito  
+**Core CS:** Data Structures, Algorithms, OS, Networks, DBMS  
+
+---
+
+## 🏆 Notable Work at Walmart  
+✔ Designed & delivered **Inventory Discrepancy Application**  
+→ Reduced investigation time **from 30 mins to 2 mins**  
+→ Reduced case re-open rate **from 23% to 15%**
+
+✔ Built **Dispute Resolution Platform**  
+→ Resolved **60%** of seller dispute cases  
+→ Reduced investigation time from **25 days to 60 minutes**
+
+✔ Migrated systems from OneOps to WCNP  
+→ Improved performance **by 20%**  
+→ Reduced infra cost  
+→ Increased deployment speed **by 30%**
+
+✔ Developed Chatbot for order/shipping issues  
+→ Reduced inquiry calls by **13%** (vs category avg of 5.8%)
+
+✔ Designed real-time monitoring dashboards (Grafana + Splunk)
+
+✔ Increased code coverage from **14% to 100%** across services
+
+---
+
+## 🧠 Currently Learning  
+- Scalable system design  
+- Distributed caching & API gateways  
+- Event-driven architectures  
+- High-performance Java patterns  
+- Architectural decision making (ADR)
+
+---
+
+## 📫 Connect with Me  
+🔗 **LinkedIn:** https://linkedin.com/in/NeerajaDadam  
+💻 **GitHub:** https://github.com/Neerajasuguna  
+📧 **Email:** neeraja.dadam@gmail.com  
+
+
+
+## 🎬 Fun fact  
+I’m a huge fan of Mani Ratnam & Gautham Menon films and love getting lost in A.R. Rahman’s music while coding.
