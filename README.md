@@ -57,6 +57,3 @@ A minimalist productivity Chrome extension for adding, tracking, and organizing 
 📧 **Email:** neeraja.dadam@gmail.com  
 
 
-
-## 🎬 Fun fact  
-I’m a huge fan of Mani Ratnam & Gautham Menon films and love getting lost in A.R. Rahman’s music while coding.
