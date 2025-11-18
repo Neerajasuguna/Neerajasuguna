@@ -32,7 +32,7 @@ A minimalist productivity Chrome extension for adding, tracking, and organizing 
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Java, C++, SQL, JavaScript  
+**Languages:** Java, C++, python, SQL, JavaScript  
 **Backend:** Spring Boot, REST APIs, Microservices, JPA/Hibernate  
 **Caching & Storage:** Redis, MySQL  
 **Messaging:** Kafka  
