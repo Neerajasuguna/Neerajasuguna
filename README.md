@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a backend engineer with 3 years of experience designing, developing, and scaling production-grade microservices at Walmart Global Tech.  
+I’m a backend engineer with experience in  designing, developing, and scaling production-grade microservices.  
 I focus on building systems that are **resilient, observable, and optimized for performance**.
 
 At work, I’ve solved large-scale engineering problems across inventory, dispute resolution, monitoring, and international expansion systems — consistently reducing latency, improving throughput, and automating workflows.
@@ -39,29 +39,6 @@ A minimalist productivity Chrome extension for adding, tracking, and organizing 
 **DevOps & Tools:** Docker, Kubernetes, Git, Grafana, Splunk, Spotlight  
 **Testing:** JUnit, Mockito  
 **Core CS:** Data Structures, Algorithms, OS, Networks, DBMS  
-
----
-
-## 🏆 Notable Work at Walmart  
-✔ Designed & delivered **Inventory Discrepancy Application**  
-→ Reduced investigation time **from 30 mins to 2 mins**  
-→ Reduced case re-open rate **from 23% to 15%**
-
-✔ Built **Dispute Resolution Platform**  
-→ Resolved **60%** of seller dispute cases  
-→ Reduced investigation time from **25 days to 60 minutes**
-
-✔ Migrated systems from OneOps to WCNP  
-→ Improved performance **by 20%**  
-→ Reduced infra cost  
-→ Increased deployment speed **by 30%**
-
-✔ Developed Chatbot for order/shipping issues  
-→ Reduced inquiry calls by **13%** (vs category avg of 5.8%)
-
-✔ Designed real-time monitoring dashboards (Grafana + Splunk)
-
-✔ Increased code coverage from **14% to 100%** across services
 
 ---
 
