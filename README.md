@@ -19,7 +19,7 @@ I am currently deepening my expertise in **system architecture, high-performance
 A production-grade rate-limiting service implementing:
 - Token Bucket  
 - Sliding Window  
-- Leaky Bucket  
+- Sliding Window Counter 
 
 Built with Redis for distributed counters, Spring Boot interceptors, and configurable per-endpoint rules. Designed to simulate API Gateway-level throttling with performance metrics and extensible rate-limit strategies.
 
